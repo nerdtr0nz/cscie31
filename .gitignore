@@ -1,0 +1,11 @@
+#dependencies
+node_modules
+
+# System file
+.DS_Store
+
+# dotenv
+.env
+
+# Mongo Shell
+mongodb_atlas
